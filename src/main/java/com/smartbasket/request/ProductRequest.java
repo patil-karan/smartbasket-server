@@ -3,6 +3,8 @@ package com.smartbasket.request;
 import java.util.HashSet;
 import java.util.Set;
 
+import com.smartbasket.entity.Size;
+
 
 public class ProductRequest {
 	
